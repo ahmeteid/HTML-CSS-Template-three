@@ -75,7 +75,7 @@ ul {
 }
 
 .main-title:hover {
-    transition-delay: 1s;
+    transition-delay: 0.5s;
     border-color: white;
     color: white;
     transform: scale(1.1);
